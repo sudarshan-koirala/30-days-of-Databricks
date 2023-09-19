@@ -7,3 +7,4 @@
 Databricks is a cloud-based data processing platform that allows users to process large amounts of data in a scalable and efficient manner. It is a unified analytics platform that provides a collaborative workspace for data scientists, engineers, and analysts to work together on data-driven projects.
 
 [Databricks Website](https://www.databricks.com/)
+- Git integration done.
