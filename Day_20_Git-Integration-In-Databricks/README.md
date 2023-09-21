@@ -1,5 +1,4 @@
-%md 
-Welcome to Day 16 of 30 days of Databricks series.
+Welcome to Day 20 of 30 days of Databricks series.
 
 [Databricks website link](https://www.databricks.com/)
 
