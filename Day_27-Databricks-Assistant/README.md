@@ -1,4 +1,4 @@
-Welcome to Day 25 of 30 days of Databricks series.
+Welcome to Day 27 of 30 days of Databricks series.
 
 [Databricks website link](https://www.databricks.com/) 
 
